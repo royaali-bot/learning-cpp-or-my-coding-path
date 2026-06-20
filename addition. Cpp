@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+int main (){
+// Adding 21  and 25 
+  cout << 21 + 25;
+  return 0;
+}
